@@ -1,5 +1,11 @@
 # Peek::Rblineprof
 
+## Differences from original
+
+This fork is same as the original, but with better CSS since the original screws up when the code has long lines.
+
+## Intro
+
 Peek into how much each line of your Rails application takes throughout a request.
 
 Things this peek view provides:
